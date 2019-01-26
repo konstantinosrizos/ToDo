@@ -6,7 +6,11 @@
 
 ![](gif/to-do.gif)
 
-### What I Learned
+---
 
-* Core Data.
-* Fetch & display and information. 
+### What I Learned:
+
+* `Core Data.`
+* `AlertController.`
+* `AccessoryType.checkmark.`
+* `Fetch & display and information.`
