@@ -13,7 +13,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UITableViewDelegate
     
     
     @IBOutlet weak var tableView: UITableView!
-    var itemName: [NSManagedObject] = []
+    var itemName: [NSManagedObject] = [] 
     
     override func viewDidLoad() {
         super.viewDidLoad()
